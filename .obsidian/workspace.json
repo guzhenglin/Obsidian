@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "0575a8e8ab187ea5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7559fc87c885223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f854fa04823e9ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9921dc8f386ae56",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d047a9ff58b04b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e9c2d3e3c180f09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a078f948c73eb93e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e5672ac955bbf99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5dcaccd82c0e55dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "428536042cfc728c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2790e6e1ad86b48a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ubuntu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "085341cf06d12c1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ubuntu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e66fb1eb018eb0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "565949e54beaad76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ubuntu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "f854fa04823e9ecf",
+  "lastOpenFiles": [
+    "模板.md",
+    "接口.md",
+    "perl/brief.md",
+    "HEXO建站/写作.md",
+    "HEXO建站/命令.md",
+    "HEXO建站/初始化.md",
+    "CPU/cache.md",
+    "CPU/流水线.md",
+    "CPU/单周期CPU.md",
+    "昇腾/wifi.md",
+    "昇腾/接口.md",
+    "未命名.md",
+    "毕设/未命名.md",
+    "Ubuntu.md",
+    "昇腾",
+    "毕设/论文.md",
+    "毕设/基础.md",
+    "毕设/格式.md",
+    "物联网/model.md",
+    "CPU",
+    "Welcome.md",
+    "物联网",
+    "Excalidraw/Drawing 2024-03-14 10.51.02.excalidraw.md",
+    "SystemC/测试平台.md",
+    "Excalidraw/Drawing 2024-04-30 15.04.14.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-30 15.04.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-30 15.04.00.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-30 15.03.22.excalidraw.md",
+    "SystemC/环境.md",
+    "fat12.img",
+    "fat12.cpp",
+    "fat12 1.cpp",
+    "attachment/基础_image_3.png",
+    "attachment/基础_image_2.png",
+    "attachment/基础_image_1.webp",
+    "attachment/环境_image_6.webp",
+    "attachment/环境_image_5.webp",
+    "attachment/环境_image_2.webp",
+    "attachment/环境_image_3.webp",
+    "attachment/环境_image_1.webp",
+    "attachment/环境_image_4.webp",
+    "attachment/idea_image_1.png",
+    "毕设",
+    "CNN",
+    "C++",
+    "FPGA"
+  ]
+}

@@ -1,0 +1,1 @@
+Selects: RTW88_CORE [=m] && RTW88_PCI [=m] && RTW88_8822C [=m]
